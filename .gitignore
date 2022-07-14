@@ -11,6 +11,7 @@
 [Mm]emoryCaptures/
 [Uu]serSettings/
 [Nn]gui/
+[4]511/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -60,5 +61,3 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-//Bossmob texture files
-*.psd
